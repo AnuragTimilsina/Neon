@@ -1,0 +1,3021 @@
+stock:
+- product:
+    upc: '9780553380958'
+    title: Snow Crash
+    description: Neal Stephenson is such a writer and Snow Crash is such a novel,
+      weaving virtual reality, Sumerian myth, and just about everything in between
+      with a cool, hip cybersensibility to bring us the gigathriller of the information
+      age.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553380958'
+  price: '17.99'
+  num_in_stock: 51
+- product:
+    upc: '9780441569595'
+    title: Neuromancer.
+    description: Case, a burned out computer whiz, is asked to steal a security code
+      that is locked in the most heavily guarded databank in the solar system
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780441569595'
+  price: '7.99'
+  num_in_stock: 51
+- product:
+    upc: '9780060512804'
+    title: Cryptonomicon
+    description: With this extraordinary first volume in what promises to be an epoch-making
+      masterpiece, Neal Stephenson hacks into the secret histories of nations and
+      the private obsessions of men, decrypting with dazzling virtuosity the forces
+      that ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780060512804'
+  price: '16.99'
+  num_in_stock: 56
+- product:
+    upc: '9780345391803'
+    title: The Hitchhiker's Guide to the Galaxy
+    description: Chronicles the journeys, notions, and acquaintances of reluctant
+      galactic traveler Arthur Dent, accompanied by never-before-published material
+      from the late author's archives as well as commentary by famous fans.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780345391803'
+  price: '17.99'
+  num_in_stock: 58
+- product:
+    upc: '9780553382563'
+    title: I, Robot
+    description: A classic collection of interlocking tales chronicles the near-future
+      development of the robot and features models that have the ability to read minds,
+      experience human emotions, and take over the world--and, perhaps, render humankind
+      ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553382563'
+  price: '17.99'
+  num_in_stock: 54
+- product:
+    upc: '9780340837948'
+    title: The Moon is a Harsh Mistress
+    description: The moon in 2075.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780340837948'
+  price: '2.99'
+  num_in_stock: 52
+- product:
+    upc: '9780525951117'
+    title: Daemon
+    description: In a near-future run by thousands of autonomous computer programs
+      that control the world's wireless networks, a dormant program activates in the
+      wake of a legendary game designer's premature death and launches a sinister
+      effort to dismantle ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780525951117'
+  price: '22.99'
+  num_in_stock: 64
+- product:
+    upc: '9780451457998'
+    title: '2001'
+    description: The epic novel of human transformation that inspired the Stanley
+      Kubrick film delves into the origin of the species, alien visitation, and the
+      future of humankind. Reissue.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780451457998'
+  price: '7.99'
+  num_in_stock: 36
+- product:
+    upc: '9780905712826'
+    title: '2001'
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780905712826'
+  price: '14.99'
+  num_in_stock: 30
+- product:
+    upc: '9780385333788'
+    title: Player Piano
+    description: "Vonnegut\u2019s first novel spins the chilling tale of engineer\
+      \ Paul Proteus, who must find a way to live in a world dominated by a super\
+      \ computer and run completely by machines."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780385333788'
+  price: '2.99'
+  num_in_stock: 94
+- product:
+    upc: '9780553294613'
+    title: The Difference Engine
+    description: In London of 1855, celebrated paleontologist Edward Mallory gets
+      mixed up with Charles Babbage, the inventor of an advanced calculating machine
+      run by his elite group of clackers
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553294613'
+  price: '5.99'
+  num_in_stock: 85
+- product:
+    upc: '9780060987046'
+    title: Microserfs
+    description: 'A novel of life in the nineties explores the world of computer giant
+      Microsoft, viewing it as a microcosm of modern society Microserfs: a hilarious,
+      fanatically detailed, and oddly moving book about a handful of misfit Microsoft
+      employees ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780060987046'
+  price: '2.99'
+  num_in_stock: 61
+- product:
+    upc: '9780525951575'
+    title: Freedom
+    description: After the outbreak of a brutal civil war in the American Midwest
+      stemming from the Daemon's civilization-rebuilding activities, reluctant Daemon
+      operative Pete Sebeck leads a small band of enlightened humans in an effort
+      to protect the new ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780525951575'
+  price: '25.99'
+  num_in_stock: 43
+- product:
+    upc: '9780345331199'
+    title: The Robot Novels
+    description: Lije Baley and R. Daneel Olivaw, a robot, investigate the murders
+      of a famous robotocist, an isolated inhabitant of Solaria, and Jander Panell,
+      an advanced robot
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780345331199'
+  price: '20.99'
+  num_in_stock: 15
+- product:
+    upc: '9780684833392'
+    title: Catch-22
+    description: Presents the contemporary classic depicting the struggles of a United
+      States airman attempting to survive the lunacy and depravity of a World War
+      II airbase.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780684833392'
+  price: '0.99'
+  num_in_stock: 34
+- product:
+    upc: '9780450055508'
+    title: Tron
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780450055508'
+  price: '26.99'
+  num_in_stock: 13
+- product:
+    upc: '9780307887436'
+    title: 'Cart''s Top 200 Adult Books for Young Adults: Two Decades in Review'
+    description: 'ISBN: 9780307887436. SPEC, HUM Welcome to the year 2044, a grandly   dystopian
+      future where kids like Wade live a largely virtual existence thanks to   global
+      warming. Wade lives in a kind of ghetto area called the Stacks, for the   stacks
+      of ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780307887436'
+  price: '8.99'
+  num_in_stock: 4
+- product:
+    upc: '9780765319852'
+    title: Little Brother
+    description: "Zit took the fore. \u201CWe seem to have gotten off to a bad start.\
+      \ We identified your son   as someone with a nonstandard public transit usage\
+      \ pattern,as part of a new   proactive enforcement program. When we spot people\
+      \ whose travels are unusual  , ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780765319852'
+  price: '8.99'
+  num_in_stock: 52
+- product:
+    upc: '9780765348272'
+    title: Old Man's War
+    description: A first novel. By the author of The Rough Guide to the Universe.
+      Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780765348272'
+  price: '17.99'
+  num_in_stock: 23
+- product:
+    upc: '9781429963947'
+    title: Speaker for the Dead
+    description: 'In the aftermath of his terrible war, Ender Wiggin disappeared,
+      and a powerful voice arose: The Speaker for the Dead, who told the true story
+      of the Bugger War.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781429963947'
+  price: '22.99'
+  num_in_stock: 74
+- product:
+    upc: '9781409903291'
+    title: The Machine Stops (Dodo Press)
+    description: He achieved his greatest success with A Passage to India (1924).
+      The novel takes as its subject the relationship between East and West, seen
+      through the lens of India in the later days of the British Raj.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781409903291'
+  price: '11.99'
+  num_in_stock: 19
+- product:
+    upc: '9780441013678'
+    title: Count Zero
+    description: In the future world of the Sprawl, an urban complex that extends
+      from Boston to Houston, where a sentient computer database known as the Cyberspace
+      matrix dominates humanity's fate, a corporate mercenary, awakening in a reconstructed
+      body, ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780441013678'
+  price: '21.99'
+  num_in_stock: 68
+- product:
+    upc: '9780553380965'
+    title: The diamond age
+    description: The story of an engineer who creates a device to raise a girl capable
+      of thinking for herself reveals what happens when a young girl of the poor underclass
+      obtains the device.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553380965'
+  price: '5.99'
+  num_in_stock: 85
+- product:
+    upc: '9780345467171'
+    title: The Shockwave Riders
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780345467171'
+  price: '20.99'
+  num_in_stock: 81
+- product:
+    upc: '9780385533850'
+    title: Robopocalypse
+    description: Two decades into the future humans are battling for their very survival
+      when a powerful AI computer goes rogue, and all the machines on earth rebel
+      against their human controllers.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780385533850'
+  price: '16.99'
+  num_in_stock: 7
+- product:
+    upc: '9780691147543'
+    title: The Silicon Jungle
+    description: Baluja tells a story about something that could happen to any of
+      us--if you're even modestly concerned about information privacy, this is an
+      important book to read.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780691147543'
+  price: '7.99'
+  num_in_stock: 35
+- product:
+    upc: '9780307594778'
+    title: Stieg Larsson's Millennium Trilogy Bundle
+    description: "Stieg Larsson\u2019s Millennium Trilogy is now available in a complete\
+      \ hardcover set."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780307594778'
+  price: '20.99'
+  num_in_stock: 58
+- product:
+    upc: '9780425198681'
+    title: Pattern Recognition
+    description: Hired to investigate a mysterious video collection that has been
+      appearing on the Internet, market research consultant Cayce Pollard realizes
+      that there is more to the assignment when her computer is hacked. Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780425198681'
+  price: '16.99'
+  num_in_stock: 85
+- product:
+    upc: '9780441016792'
+    title: WWW
+    description: Receiving an implant to restore her sight, math genius Caitlin's
+      life is changed in ways she could have never imagined when she suddenly begins
+      to see a world beyond reality and an incredible realm that others cannot.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780441016792'
+  price: '5.99'
+  num_in_stock: 50
+- product:
+    upc: '9781450556569'
+    title: A Terrace on the Tower of Babel
+    description: Delve deep into its provocative and compelling depths or float along
+      at the surface and enjoy it in either case - this is a story you'll never forget!
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781450556569'
+  price: '6.99'
+  num_in_stock: 48
+- product:
+    upc: '9780552151696'
+    title: Digital Fortress
+    description: 'DIGITAL FORTRESS Dan Brown El CORGI BOOKS DIGITAL FORTRESS A   CORGI
+      BOOK: 9780552151696 First publication in Great.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780552151696'
+  price: '9.99'
+  num_in_stock: 33
+- product:
+    upc: '9780763622596'
+    title: Feed
+    description: In a future where most people have computer implants in their heads
+      to control their environment, Titus meets Violet, an unusual teenage girl who
+      is in serious trouble.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780763622596'
+  price: '2.99'
+  num_in_stock: 78
+- product:
+    upc: '9780804115483'
+    title: Enigma
+    description: A fictional account of the desperate efforts to break the Nazi's
+      Enigma code takes place in a British railway town, a struggle that becomes complicated
+      by the pivotal disappearance of a beautiful cryptographer --The Orlando Sentinel
+      As an ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780804115483'
+  price: '1.99'
+  num_in_stock: 37
+- product:
+    upc: '9780441363957'
+    title: I Have No Mouth
+    description: The concerns and stylistic evolution of the famed futuristic writer
+      are revealed in seven science fiction tales
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780441363957'
+  price: '8.99'
+  num_in_stock: 47
+- product:
+    upc: '9780553264654'
+    title: When Harlie was one
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553264654'
+  price: '28.99'
+  num_in_stock: 68
+- product:
+    upc: '9780446364966'
+    title: The Turing Option
+    description: The world's foremost authority on artificial intelligence is shot
+      by terrorists, and it is up to a brilliant surgeon to reconstruct the scientist's
+      brain using the research he pioneered
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780446364966'
+  price: '3.99'
+  num_in_stock: 4
+- product:
+    upc: '9780312423131'
+    title: Galatea 2.2
+    description: The protagonist, a Humanist-in-Residence at the center for Advanced
+      Scientific Research, gets involved with a project to train a machine to pass
+      a comprehensive exam in English literature--and with the degree candidate against
+      whom the ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780312423131'
+  price: '17.99'
+  num_in_stock: 71
+- product:
+    upc: '9780982792827'
+    title: Sherry and Narcotics
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780982792827'
+  price: '2.99'
+  num_in_stock: 74
+- product:
+    upc: '9780156032971'
+    title: Foucault's Pendulum
+    description: . . A virtuoso performance." --"San Francisco"" Chronicle" A literary
+      joke plunges its creators into mortal danger in this captivating intellectual
+      thriller by celebrated author Umberto Eco.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780156032971'
+  price: '8.99'
+  num_in_stock: 93
+- product:
+    upc: '9780553575378'
+    title: Excession
+    description: A diplomat is sent to investigate the sudden disappearance of a star
+      older than the universe, requiring him to steal the soul of the long-deceased
+      starship captain who first encountered the star and bring her back to life.
+      Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553575378'
+  price: '16.99'
+  num_in_stock: 16
+- product:
+    upc: '9780812524826'
+    title: Slant
+    description: "SLANT, Greg Bear\xEDs sequel to the popular QUEEN OF ANGELS, \xEC\
+      shows that Bear is one of our very best, most innovative, speculative writers.\xEE\
+      \ \xF3New York Daily News \xECTense and fast-paced, beautifully written with\
+      \ complex, engaging ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780812524826'
+  price: '12.99'
+  num_in_stock: 9
+- product:
+    upc: '9780425074657'
+    title: Destination Void
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780425074657'
+  price: '23.99'
+  num_in_stock: 31
+- product:
+    upc: '9780425074671'
+    title: The Jesus Incident
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780425074671'
+  price: '19.99'
+  num_in_stock: 97
+- product:
+    upc: '9781425470890'
+    title: The Adding Machine
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781425470890'
+  price: '14.99'
+  num_in_stock: 43
+- product:
+    upc: '9780375724503'
+    title: Ghostwritten
+    description: The lives of nine total strangers from nine different countries become
+      intertwined in a strange series of circumstances.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780375724503'
+  price: '1.99'
+  num_in_stock: 3
+- product:
+    upc: '9780812536362'
+    title: Rainbows End
+    description: In a near-future western civilization that is threatened by corruptive
+      practices within its technologically advanced information networks, a recovered
+      Alzheimer's victim, his military son and daughter-in-law, and his middle school-age
+      ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780812536362'
+  price: '7.99'
+  num_in_stock: 37
+- product:
+    upc: '9780452286511'
+    title: Transmission
+    description: "Lonely, na\xEFve, and insecure, Indian computer programmer Arjun\
+      \ finds his life and security destroyed when he is fired and, in order to keep\
+      \ his job and the woman he loves, unleashes a mischievous and destructive virus\
+      \ that wreaks havoc on ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780452286511'
+  price: '11.99'
+  num_in_stock: 37
+- product:
+    upc: '9780881848120'
+    title: Lingo
+    description: When computer programming genius Brewster Billings invents a program
+      that enables him to communicate with Lingo, his PC, he is ill-prepared for Lingo's
+      growing hunger for power, as it taps into the country's most powerful computer
+      networks
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780881848120'
+  price: '24.99'
+  num_in_stock: 94
+- product:
+    upc: '9780345475824'
+    title: Star Wars trilogy
+    description: 'A collector''s edition brings together the three original, complete
+      Star Wars novels in a single volume that includes Star Wars: A New Hope, Star
+      Wars: The Empire Strikes Back, and Star Wars: Return of the Jedi.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780345475824'
+  price: '14.99'
+  num_in_stock: 39
+- product:
+    upc: '9781416533214'
+    title: A Hymn Before Battle
+    description: With Earth in the path of the rapacious Posleen, the peaceful and
+      friendly races of the Galactic Federation offer their resources to help the
+      backward Terrans--for a price.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781416533214'
+  price: '5.99'
+  num_in_stock: 58
+- product:
+    upc: '9781419669972'
+    title: Hack
+    description: His characters are rich and engaging, and his prose is razor sharp.
+      This is a wonderful book for any computer fanatic or any young person who enjoys
+      a great read.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781419669972'
+  price: '21.99'
+  num_in_stock: 21
+- product:
+    upc: '9780375700514'
+    title: Exegesis
+    description: Invented by Alice Lu in her Standford lab, "edgar," an artificial
+      intelligence program, grows into something far beyond Alice's--or anyone eles's--control,
+      in a novel that explores the many implications of the technology we create
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780375700514'
+  price: '23.99'
+  num_in_stock: 52
+- product:
+    upc: '9781575660813'
+    title: Back Slash
+    description: When a cyber terrorist seizes control of the Worldwide Information
+      Network, computer crimes special agent Luanne Russell hunts down a second computer
+      criminal on the run and challenges him to confront the terrorist.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781575660813'
+  price: '13.99'
+  num_in_stock: 20
+- product:
+    upc: '9780307430083'
+    title: Vulcan's Hammer
+    description: With breathtaking insight, he utilizes vividly unfamiliar worlds
+      to evoke the hauntingly and hilariously familiar in our society and ourselves.
+      From the Trade Paperback edition.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780307430083'
+  price: '0.99'
+  num_in_stock: 13
+- product:
+    upc: '9781568582474'
+    title: The Hacker and the Ants
+    description: An "innocent" computer hacker suddenly finds himself on the most
+      wanted list when his computer becomes the source of the worst computer virus
+      in history--a virus he had nothing to do with. Original.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781568582474'
+  price: '11.99'
+  num_in_stock: 26
+- product:
+    upc: '9781607012115'
+    title: The Ware Tetralogy
+    description: A collection of four science fiction works includes "Software," where
+      rebel robots bring immortality to their human creator by eating his brain, and
+      "Wetware," where robots begin to build their own race of humans.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781607012115'
+  price: '7.99'
+  num_in_stock: 89
+- product:
+    upc: '9780752837451'
+    title: Host
+    description: Brilliant scientist Joe Messenger believes that people can be made
+      to live for ever.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780752837451'
+  price: '12.99'
+  num_in_stock: 81
+- product:
+    upc: '9780714530338'
+    title: Computer One
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780714530338'
+  price: '1.99'
+  num_in_stock: 85
+- product:
+    upc: '9780593018958'
+    title: Weapon
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780593018958'
+  price: '25.99'
+  num_in_stock: 11
+- product:
+    upc: '9781416507789'
+    title: The Cuckoo's Egg
+    description: Updated with a new afterword, a true-life account of computer espionage
+      tells of a year-long single-handed hunt for a computer thief known as "Hunter,"
+      a hacker who stole sensitive security and military information from American
+      computer ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781416507789'
+  price: '0.99'
+  num_in_stock: 0
+- product:
+    upc: '9780425137482'
+    title: Solo
+    description: When Solo--the government's secret weapon--abandons his mission in
+      Nicaragua and flies to New York City, the government sets out to destroy him.
+      By the author of Weapon. Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780425137482'
+  price: '19.99'
+  num_in_stock: 96
+- product:
+    upc: '9780486419268'
+    title: R.U.R. (Rossum's Universal Robots)
+    description: Must-read play looks to a future in which all workers are automatons.
+      They revolt when they acquire souls (i.e., when they gain the ability to hate)
+      and the resulting catastrophe make for a powerful theatrical experience.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780486419268'
+  price: '22.99'
+  num_in_stock: 86
+- product:
+    upc: '9780786123322'
+    title: The Humanoids
+    description: A classic science fiction novel features humanoids spreading throughout
+      the galaxy, threatening to stifle all human endeavor, and the hidden group of
+      rebels who try to stem the humanoid tide, if it is not already too late
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780786123322'
+  price: '17.99'
+  num_in_stock: 77
+- product:
+    upc: '9780812531930'
+    title: The Ai War
+    description: The dreaded AI's have regrouped in an alternate universe and are
+      preparing to launch their invincible fleet.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780812531930'
+  price: '17.99'
+  num_in_stock: 23
+- product:
+    upc: '9781556342332'
+    title: Gurps Robots
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781556342332'
+  price: '22.99'
+  num_in_stock: 10
+- product:
+    upc: '9781466207608'
+    title: Why Is Unit 142857 Sad?
+    description: The story is about a robot who achieved consciousness at 3:34 pm
+      and fell in love by 4:00 pm with Ellen, a brilliant and beautiful woman from
+      the team that had programmed the robot.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781466207608'
+  price: '22.99'
+  num_in_stock: 19
+- product:
+    upc: '9780553290028'
+    title: This Perfect Day
+    description: Chip fights for freedom from a mechanized, chemically controlled
+      world which stifles nature and human individuality
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553290028'
+  price: '25.99'
+  num_in_stock: 92
+- product:
+    upc: '9780252072239'
+    title: March Of The Machines
+    description: Now available for the first time in America, March of the Machines
+      is part history of robotics, part futurism.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780252072239'
+  price: '3.99'
+  num_in_stock: 23
+- product:
+    upc: '9780886822330'
+    title: All the Troubles of the World
+    description: Multivac, the gigantic computer that controls the entire world and
+      can even predict the probabilities of potential crimes before they happen, suddenly
+      announces that someone is plotting to destroy Multivac.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780886822330'
+  price: '19.99'
+  num_in_stock: 46
+- product:
+    upc: '9780595297634'
+    title: Bugs
+    description: 'Ten. The memo began: to: T. J. Heller, Director NCDC from: Sheldon
+      Byers,   Security Liaison re: Inventory of Federally Funded Research in Paranormal   Phenomena
+      It had been delivered to Heller''s office in a sealed envelope marked ''  Strictly
+      ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780595297634'
+  price: '25.99'
+  num_in_stock: 40
+- product:
+    upc: '9780395860014'
+    title: Love
+    description: Spackle. Dialogue. Beck studied for MCATs and drank beer. It was
+      Italian beers   that week, so he had a Raffo or a Poretti. While he worked,
+      he watched that   Grundig portable he'd rented with Grandma Beckett's latest
+      check. He'd just   picked it ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780395860014'
+  price: '24.99'
+  num_in_stock: 0
+- product:
+    upc: '9780575061897'
+    title: Hard Questions
+    description: When scientist Clare Conway travels to Arizona for a conference,
+      she finds herself on the run from a religious cult, ruthless computer spies,
+      and the government, of all whom think she knows the secrets of the Quantum computer,
+      a device that ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780575061897'
+  price: '24.99'
+  num_in_stock: 32
+- product:
+    upc: '9780345275172'
+    title: The Two Faces of Tomorrow
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780345275172'
+  price: '6.99'
+  num_in_stock: 13
+- product:
+    upc: '9780743421928'
+    title: Look to Windward
+    description: A Chelgrian emissary is sent to the Masaq' Orbital to bring Ziller,
+      a famous but reclusive Chelgrian composer, home, on a mission that also has
+      a top-secret purpose that will take him on a haunting odyssey into his own past
+      and into ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780743421928'
+  price: '1.99'
+  num_in_stock: 76
+- product:
+    upc: '9780446361309'
+    title: Queen of Angels
+    description: In twenty-first-century Los Angeles, three dissimilar sleuths--therapist
+      Martin Burke, ambitious cop Mary Choy, and Richard Fettle, the killer's offbeat
+      colleague--investigate diverse reasons why poet Emanuel Goldsmith would senselessly
+      ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780446361309'
+  price: '26.99'
+  num_in_stock: 57
+- product:
+    upc: '9780671559168'
+    title: Valentina
+    description: Valentina, an artificial intelligence program come to life, and her
+      creator, Celeste Hackett, a shy college student and computer genius, are menaced
+      by an unscrupulous lawyer and two computer wizards hired to destroy Valentina
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780671559168'
+  price: '4.99'
+  num_in_stock: 36
+- product:
+    upc: '9781935554158'
+    title: Richard Yates
+    description: '"Richard Yates is named after real-life writer Richard Yates, but
+      it has nothing to do with him.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781935554158'
+  price: '1.99'
+  num_in_stock: 54
+- product:
+    upc: '9780552088046'
+    title: The age of the pussyfoot
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780552088046'
+  price: '26.99'
+  num_in_stock: 27
+- product:
+    upc: '9781857988369'
+    title: Stand on Zanzibar
+    description: 'Two roommates-one a scientist and the other a potential killer-are
+      the subject of this futuristic novel. Also use: Shockwave Rider (1984).'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781857988369'
+  price: '7.99'
+  num_in_stock: 9
+- product:
+    upc: '9780575601604'
+    title: Deathstalker
+    description: Owen Deathstalker, last of his line, is a quiet man, a historian,
+      remote from the stench of corruption and intrigue surrounding the Iron Throne
+      at the heat of the galaxy-spanning, tyrannical Empire.And then, inexplicably,
+      Deathstalker is ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780575601604'
+  price: '10.99'
+  num_in_stock: 48
+- product:
+    upc: '9781345004373'
+    title: Pilgrimage to Earth
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781345004373'
+  price: '18.99'
+  num_in_stock: 31
+- product:
+    upc: '9780380816033'
+    title: The Big U
+    description: Casimir Radon's first year at American Megaversity turns out completely
+      different than he had imagined, with bizarre factions, cults, and feuds on campus,
+      in a new edition of the satirical debut novel by the author of Cryptonomicon.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780380816033'
+  price: '5.99'
+  num_in_stock: 62
+- product:
+    upc: '9780671720735'
+    title: Me
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780671720735'
+  price: '28.99'
+  num_in_stock: 87
+- product:
+    upc: '9781857987638'
+    title: The City and the Stars
+    description: Men had built cities before, but never such a city as Diaspar; for
+      millennia its protective dome shutout the creeping decay and danger of the world
+      outside.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9781857987638'
+  price: '16.99'
+  num_in_stock: 74
+- product:
+    upc: '9780671559700'
+    title: Adolescence of P-1 (R)
+    description: Born to a rather beserk, if brilliant, programmer, a computer program
+      has managed to escape its home computer, infiltrate others, and reach adolescence
+      when the Pentagon finally realizes that something is upsetting their secret
+      computer ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780671559700'
+  price: '18.99'
+  num_in_stock: 97
+- product:
+    upc: '9780812580860'
+    title: Ariel
+    description: Computer whiz kid Rusty Harrington establishes a very special relationship
+      with ARIEL, his father's top-secret artificial intelligence project, in a story
+      of romance, industrial espionage, friendship, and state-of-the-art computer
+      ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780812580860'
+  price: '26.99'
+  num_in_stock: 96
+- product:
+    upc: '9780131103627'
+    title: The C Programming Language
+    description: As we said in the first preface to the first edition, C "wears well
+      as one's experience with it grows." With a decade more experience, we still
+      feel that way. We hope that this book will help you to learn C and use it well.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780131103627'
+  price: '9.99'
+  num_in_stock: 20
+- product:
+    upc: '9780201616224'
+    title: Alfresco 3 Web Services
+    description: '... <id>urn:isbn:9780201616224</id><updated>20100114T14:20:24+0100</  updated>
+      <title>ThePragmaticProgrammer</title><author><name>DavidThomas  </name></author>
+      <author><name>Andrew Hunt</name></author> <category ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201616224'
+  price: '3.99'
+  num_in_stock: 82
+- product:
+    upc: '9780201633610'
+    title: Design Patterns
+    description: With Design Patterns as your guide, you will learn how these important
+      patterns fit into the software development process, and how you can leverage
+      them to solve your own design problems most efficiently.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201633610'
+  price: '23.99'
+  num_in_stock: 74
+- product:
+    upc: '9780262510875'
+    title: Structure and Interpretation of Computer Programs
+    description: This long-awaited revision contains changesthroughout the text.There
+      are new implementations of most of the major programming systems in thebook,
+      including the interpreters and compilers, and the authors have incorporated
+      many small ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262510875'
+  price: '23.99'
+  num_in_stock: 54
+- product:
+    upc: '9780201485677'
+    title: Refactoring
+    description: "improving the design of existing code M. Fowler. Object Technology/Software\
+      \   Engineering As the application of object technology\u2014 particularly the\
+      \ Java   programming language\u2014 has become commonplace, a new problem has\
+      \   emerged to ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201485677'
+  price: '1.99'
+  num_in_stock: 9
+- product:
+    upc: '9780201485417'
+    title: 'The Art of Computer Programming: Sorting and searching'
+    description: Check out the boxed set that brings together Volumes 1 - 4A in one
+      elegant case, and offers the purchaser a $50 discount off the price of buying
+      the four volumes individually.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201485417'
+  price: '18.99'
+  num_in_stock: 37
+- product:
+    upc: '9780201835953'
+    title: The mythical man-month
+    description: These essays draw from his experience as project manager for the
+      IBM System/360 computer family and then for OS/360, its massive software system.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201835953'
+  price: '8.99'
+  num_in_stock: 90
+- product:
+    upc: '9780735619678'
+    title: Code Complete, Second Edition
+    description: Features the best practices in the art and science of constructing
+      software--topics include design, applying good techniques to construction, eliminating
+      errors, planning, managing construction activities, and relating personal character
+      to ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780735619678'
+  price: '27.99'
+  num_in_stock: 88
+- product:
+    upc: '9780132350884'
+    title: Clean Code
+    description: Looks at the principles and clean code, includes case studies showcasing
+      the practices of writing clean code, and contains a list of heuristics and "smells"
+      accumulated from the process of writing clean code.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780132350884'
+  price: '1.99'
+  num_in_stock: 91
+- product:
+    upc: '9780201700732'
+    title: The C++ programming language
+    description: More than three-quarters of a million programmers have benefited
+      from this book in all of its editions Written by Bjarne Stroustrup, the creator
+      of C++, this is the world's most trusted and widely read book on C++.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201700732'
+  price: '11.99'
+  num_in_stock: 88
+- product:
+    upc: '9780596517748'
+    title: 'JavaScript: The Good Parts'
+    description: If you develop sites or applications for the Web, this book is an
+      absolute must.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596517748'
+  price: '21.99'
+  num_in_stock: 49
+- product:
+    upc: '9780201100884'
+    title: Compilers, principles, techniques, and tools
+    description: This book provides the foundation for understanding the theory and
+      pracitce of compilers.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201100884'
+  price: '15.99'
+  num_in_stock: 2
+- product:
+    upc: '9780130313584'
+    title: "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u043E\
+      \u043F\u0435\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u0441\u0438\
+      \u0441\u0442\u0435\u043C\u044B"
+    description: NEW-Over 200 references to books and papers published since the first
+      edition. NEW-The Web site for this book contains PowerPoint slides, simulators,
+      figures in various formats, and other teaching aids.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780130313584'
+  price: '16.99'
+  num_in_stock: 23
+- product:
+    upc: '9780137903955'
+    title: Artificial Intelligence
+    description: 'All of this is available at: "aima.cs.berkeley.edu"'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780137903955'
+  price: '9.99'
+  num_in_stock: 23
+- product:
+    upc: '9780262011532'
+    title: Structure and Interpretation of Computer Programs
+    description: Structure and Interpretation of Computer Programs has had a dramatic
+      impact on computer science curricula over the past decade. This long-awaited
+      revision contains changes throughout the text.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262011532'
+  price: '28.99'
+  num_in_stock: 5
+- product:
+    upc: '9780139376818'
+    title: The UNIX programming environment
+    description: Most of the book is devoted to discussions of individual tools, but
+      throughout run the themes of combining programs and of using programs to build
+      programs--emphasizing how they fit in the environment.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780139376818'
+  price: '24.99'
+  num_in_stock: 44
+- product:
+    upc: '9780596514983'
+    title: Real World Haskell
+    description: 'With this book, you will: Understand the differences between procedural
+      and functional programming Learn the features of Haskell, and how to use it
+      to develop useful programs Interact with filesystems, databases, and network
+      services Write ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596514983'
+  price: '11.99'
+  num_in_stock: 18
+- product:
+    upc: '9780262560993'
+    title: Little LISPer
+    description: 'Daniel Paul Friedman. True: as long as we use the names consistently,
+      we are   just fine. And mk-length is a far more equal name than length. If we
+      use a name   like mk-length, it is a constant reminder that the first argument
+      to mk-length is ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262560993'
+  price: '21.99'
+  num_in_stock: 31
+- product:
+    upc: '9780596007126'
+    title: Head First Design Patterns
+    description: 'Meanwhile,. back. at. the. PizzaStore. The design for the PizzaStore
+      is really   shaping up: it''s got a flexible framework and it does a good job
+      of adhering to   design principles. Now, the key to Objectville Pizza''s success
+      has always been   fresh, ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596007126'
+  price: '23.99'
+  num_in_stock: 12
+- product:
+    upc: '9780131177055'
+    title: Working Effectively With Legacy Code
+    description: In this book, Michael Feathers offers start-to-finish strategies
+      for working more effectively with large, untested legacy code bases.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780131177055'
+  price: '24.99'
+  num_in_stock: 23
+- product:
+    upc: '9780262062183'
+    title: How to design programs
+    description: 'an introduction to programming and computing Matthias Felleisen.
+      The   abstraction: Next we replace the contents of corresponding pairs of boxes
+      with   new names and add these names to the parameter list. For example, if
+      there are   three pairs ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262062183'
+  price: '15.99'
+  num_in_stock: 4
+- product:
+    upc: '9780201615869'
+    title: "La pr\xE1ctica de la programaci\xF3n"
+    description: Rob Pike. probably need to make changes to the main body of the code,
+      and if   you edit a copy, before long you will have divergent versions. As much
+      as   possible, there should only be a single source for a program; if you find
+      you need   to ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201615869'
+  price: '15.99'
+  num_in_stock: 63
+- product:
+    upc: '9780974514055'
+    title: Programming Ruby
+    description: A tutorial and reference to the object-oriented programming language
+      for beginning to experienced programmers, updated for version 1.8, describes
+      the language's structure, syntax, and operation, and explains how to build applications.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780974514055'
+  price: '1.99'
+  num_in_stock: 61
+- product:
+    upc: '9780596002817'
+    title: Learning Python
+    description: This edition of Learning Python puts you in the hands of two expert
+      teachers, Mark Lutz and David Ascher, whose friendly, well-structured prose
+      has guided many a programmer to proficiency with the language.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596002817'
+  price: '18.99'
+  num_in_stock: 7
+- product:
+    upc: '9780134900124'
+    title: UNIX Network Programming
+    description: Interprocess Communications.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780134900124'
+  price: '2.99'
+  num_in_stock: 21
+- product:
+    upc: '9780321503626'
+    title: Growing Object-Oriented Software, Guided by Tests
+    description: "Along the way, the book systematically addresses challenges that\
+      \ development teams encounter with TDD\u2014from integrating TDD into your processes\
+      \ to testing your most difficult features."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321503626'
+  price: '17.99'
+  num_in_stock: 49
+- product:
+    upc: '9780321146533'
+    title: Test-Driven Development
+    description: 'By Example. The Addison-Wesley Signature Series provides readers
+      with   practical and authoritative information on the latest trends in modern
+      technology   for computer professionals. The series is based on one simple premise:
+      great   books ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321146533'
+  price: '19.99'
+  num_in_stock: 39
+- product:
+    upc: '9780974514048'
+    title: Ship it!
+    description: Experienced practitioners Richardson and Gwaltney give inside information
+      on the practicalities of managing a development project, whether from the aforesaid
+      garage or from the largest cube farm in th.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780974514048'
+  price: '20.99'
+  num_in_stock: 94
+- product:
+    upc: '9780133708752'
+    title: ANSI Common Lisp
+    description: Consisting of three appendices, the summary half of the book gives
+      source code for a selection of widely used Common Lisp operators, with definitions
+      that offer a comprehensive explanation of the language and provide a rich source
+      of real ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780133708752'
+  price: '24.99'
+  num_in_stock: 93
+- product:
+    upc: '9780596000271'
+    title: Programming Perl
+    description: On the other hand, the best managers also understand the job their
+      employees   are trying to do. The same is true of pattern matching in Perl.
+      The more   thoroughly you understand of how Perl goes about the task of matching
+      any   particular ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596000271'
+  price: '21.99'
+  num_in_stock: 48
+- product:
+    upc: '9780321334879'
+    title: Effective Java
+    description: "Each chapter in the book consists of several \u201Citems\u201D presented\
+      \ in the form of a short, standalone essay that provides specific advice, insight\
+      \ into Java platform subtleties, and outstanding code examples."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321334879'
+  price: '1.99'
+  num_in_stock: 34
+- product:
+    upc: '9780262033848'
+    title: Algorithms
+    description: A new edition of the essential text and professional reference, with
+      substantial newmaterial on such topics as vEB trees, multithreaded algorithms,
+      dynamic programming, and edge-baseflow.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262033848'
+  price: '0.99'
+  num_in_stock: 49
+- product:
+    upc: '9780976694007'
+    title: Agile Web Development Whit Rails
+    description: Provides information on creating Web-based applications.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780976694007'
+  price: '8.99'
+  num_in_stock: 18
+- product:
+    upc: '9780131495050'
+    title: Xunit Test Patterns
+    description: The definitive guide to writing tests for todays popular XUnit test
+      automation frameworks, this guide by a renowned expert introduces more than
+      120 proven patterns for making tests easier to write, understand, and maintain.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780131495050'
+  price: '2.99'
+  num_in_stock: 30
+- product:
+    upc: '9780135974445'
+    title: Agile software development
+    description: Taking on a global orientation to software programming, this practical
+      guide offers scores of tested methods for using the C++ programming language
+      with object-oriented design techniques for creating a variety of applications
+      and solving a ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780135974445'
+  price: '2.99'
+  num_in_stock: 40
+- product:
+    upc: '9780596101053'
+    title: Learning Perl
+    description: Shows how to write, debug, and run a Perl program, describes CGI
+      scripting and data manipulation, and describes scalar values, basic operators,
+      and associative arrays.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596101053'
+  price: '11.99'
+  num_in_stock: 84
+- product:
+    upc: '9780201433074'
+    title: Advanced programming in the Unix environment
+    description: This book includes lots of realistic examples, and I find it quite
+      helpful when I have systems programming tasks to do." -- RS/Magazine "This is
+      the definitive reference book for any serious or professional UNIX systems programmer.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201433074'
+  price: '3.99'
+  num_in_stock: 29
+- product:
+    upc: '9780534950972'
+    title: Introduction To The Theory Of Computation
+    description: This market leading text on computational theory provides a mathematical
+      treatment of computer science theory designed around theorems and proofs.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780534950972'
+  price: '26.99'
+  num_in_stock: 7
+- product:
+    upc: '9781590593899'
+    title: Joel on Software
+    description: "The Guerilla Guide to Interviewing Incentive Pay Considered Harmful\
+      \ Top Five (Wrong) Reasons You Don\u2019t Have Testers Human Task Switches Considered\
+      \ Harmful Things You Should Never Do, Part One The Iceberg Secret, Revealed\
+      \ The Law of Leaky ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781590593899'
+  price: '20.99'
+  num_in_stock: 44
+- product:
+    upc: '9780205313426'
+    title: Elements of Style
+    description: The Elements of Style is a classic work which is intended for use
+      in English courses in which the practice of composition is combined with the
+      study of literature.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780205313426'
+  price: '23.99'
+  num_in_stock: 80
+- product:
+    upc: '9781934356371'
+    title: The Rspec Book
+    description: The RSpec Book will introduce you to RSpec, Cucumber, and a number
+      of other tools that make up the Ruby BDD family.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781934356371'
+  price: '19.99'
+  num_in_stock: 93
+- product:
+    upc: '9780136291558'
+    title: Object-oriented software construction
+    description: 'This is, quite simply, the definitive reference on the most important
+      development in software technology for the last 20 years: object-orientation.A
+      whole generation was introduced to object technology through the first edition
+      of this book ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780136291558'
+  price: '11.99'
+  num_in_stock: 9
+- product:
+    upc: '9780201889543'
+    title: The C++ programming language
+    description: Written by the inventor of the language, this book is the defining
+      text on the language that has become central to software development over the
+      past five years.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201889543'
+  price: '6.99'
+  num_in_stock: 14
+- product:
+    upc: '9780201342758'
+    title: Haskell
+    description: 'The second edition of Haskell: The Craft of Functional Programmingis
+      essential reading for beginners to functional programming and newcomers to the
+      Haskell programming language.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201342758'
+  price: '8.99'
+  num_in_stock: 57
+- product:
+    upc: '9780596529864'
+    title: Learning Ruby
+    description: 'You''ll find examples on nearly every page of this book that you
+      can imitate and hack. Briefly, this book: Outlines many of the most important
+      features of Ruby Demonstrates how to use conditionals, and how to manipulate
+      strings in Ruby.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596529864'
+  price: '9.99'
+  num_in_stock: 58
+- product:
+    upc: '9780672328794'
+    title: Sams Teach Yourself JavaScript in 24 Hours
+    description: The book is written in a clear and personable style with an extensive
+      use of practical, complete examples. It also includes material on the latest
+      developments in JavaScript and web scripting.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780672328794'
+  price: '14.99'
+  num_in_stock: 7
+- product:
+    upc: '9780672326721'
+    title: Php And Mysql Web Development
+    description: Explains how to access and create MySQL databases through PHP scripting,
+      including authentication, network connectivity, session management, and content
+      customization.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780672326721'
+  price: '6.99'
+  num_in_stock: 41
+- product:
+    upc: '9780672323492'
+    title: Sams teach yourself MySQL in 24 hours
+    description: Demonstrates the features of the SQL-based relational database system,
+      covering configuration, integration with third-party tools, and Web page generation
+      as well as column types, operators, functions, and syntax.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780672323492'
+  price: '26.99'
+  num_in_stock: 54
+- product:
+    upc: '9780201703535'
+    title: Accelerated C++
+    description: This book describes real problems and solutions, not just language
+      features. It covers the language and standard library together. "This is a first-rate
+      introductory book that takes a practical approach to solving problems using
+      C++.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201703535'
+  price: '0.99'
+  num_in_stock: 2
+- product:
+    upc: '9780130810816'
+    title: 'UNIX Network Programming: Interprocess communications'
+    description: '8108A-2 Don''t miss the rest of the series! Vol. 1, Networking APIs:
+      Sockets and XTI Vol. 3, Applications (forthcoming) The only guide to UNIX(r)
+      interprocess communications you''ll ever need!'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780130810816'
+  price: '4.99'
+  num_in_stock: 39
+- product:
+    upc: '9780961392147'
+    title: Library Resources & Technical Services
+    description: ''
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780961392147'
+  price: '13.99'
+  num_in_stock: 85
+- product:
+    upc: '9780767907699'
+    title: Slack
+    description: Argues that the "lean and mean" corporate model of workaholism and
+      downsizing is proving counterproductive, explaining how companies can implement
+      downtime, promote flexibility, and foster creativity as part of realizing increased
+      revenues.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780767907699'
+  price: '7.99'
+  num_in_stock: 5
+- product:
+    upc: '9780137081073'
+    title: The Clean Coder
+    description: Readers will come away from this book understanding How to tell the
+      difference between good and bad codeHow to write good code and how to transform
+      bad code into good codeHow to create good names, good functions, good objects,
+      and good ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780137081073'
+  price: '28.99'
+  num_in_stock: 66
+- product:
+    upc: '9780978739218'
+    title: Release It!
+    description: Provides information on ways to effectively design and release an
+      application.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780978739218'
+  price: '27.99'
+  num_in_stock: 90
+- product:
+    upc: '9780471578147'
+    title: Assembly Language
+    description: Destined to become a classic, this book weaves a careful, patient
+      explanation of assembly language instructions and programming methods with descriptions
+      of the CPU and memory.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780471578147'
+  price: '14.99'
+  num_in_stock: 81
+- product:
+    upc: '9781934356852'
+    title: Lean from the Trenches
+    description: From start to finish, readers will see what it takes to develop a
+      successful agile project.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781934356852'
+  price: '0.99'
+  num_in_stock: 42
+- product:
+    upc: '9780557030798'
+    title: Reviewing C++
+    description: A simple C++ review book and your best guide to learning C++. This
+      book covers the most seen topics in introductory programming courses such as
+      conditions, loops, arrays, classes and pointers.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780557030798'
+  price: '15.99'
+  num_in_stock: 84
+- product:
+    upc: '9780764543654'
+    title: Beginning Java 2 SDK 1.4 edition
+    description: What this book will teach you This book will teach you all you need
+      to know to start programming in Java. This latest edition of my series teaches
+      Java with the Java 2 SDK 1.4; a free Software Development Kit for creating Java
+      applications.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780764543654'
+  price: '21.99'
+  num_in_stock: 19
+- product:
+    upc: '9781848000698'
+    title: The Algorithm Design Manual
+    description: 'Expanding on the highly successful formula of the first edition,
+      the book now serves as the primary textbook of choice for any algorithm design
+      course while maintaining its status as the premier practical reference guide
+      to algorithms.NEW: ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781848000698'
+  price: '5.99'
+  num_in_stock: 73
+- product:
+    upc: '9781934356586'
+    title: The Agile Samurai
+    description: Looks at the principles of agile software development, covering such
+      topics as project inception, estimation, iteration management, unit testing,
+      refactoring, test-driven development, and continuous integration.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781934356586'
+  price: '9.99'
+  num_in_stock: 65
+- product:
+    upc: '9780262062794'
+    title: Essentials of programming languages
+    description: A new edition of a textbook that provides students with a deep, working
+      understanding of the essential concepts of programming languages, completely
+      revised, with significant new material.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262062794'
+  price: '14.99'
+  num_in_stock: 97
+- product:
+    upc: '9780672327933'
+    title: Sams teach yourself Perl in 24 hours
+    description: Offers a tutorial explaining how to use Perl scripts and modules
+      to create such CGI Web applications as data collection, shopping cart, server
+      push, and e-mail forms.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780672327933'
+  price: '2.99'
+  num_in_stock: 64
+- product:
+    upc: '9780133262247'
+    title: C
+    description: This essential manual introduces the notion of "Clean C", writing
+      C code that can be compiled as a C++ program, and incorporates the ISO C Amendment
+      1 (1994) which specifies new facilities for writing portable, international
+      programs in C.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780133262247'
+  price: '4.99'
+  num_in_stock: 40
+- product:
+    upc: '9780201379235'
+    title: STL tutorial and reference guide
+    description: The generic algorithms chapter with so many more examples than in
+      the previous edition is delightful! The examples work cumulatively to give a
+      sense of comfortable competence with the algorithms, containers, and iterators
+      used.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201379235'
+  price: '6.99'
+  num_in_stock: 51
+- product:
+    upc: '9780955683619'
+    title: Bridging the Communication Gap
+    description: Bridging the Communication Gap is a book about improving communication
+      between customers, business analysts, developers and testers on software projects,
+      especially by using specification by example and agile acceptance testing.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780955683619'
+  price: '20.99'
+  num_in_stock: 77
+- product:
+    upc: '9780321437389'
+    title: Implementing Lean Software Development
+    description: '"This remarkable book combines practical advice, ready-to-use techniques,
+      anda deep understanding of why this is the right way to develop software. I
+      haveseen software teams transformed by the ideas in this book.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321437389'
+  price: '0.99'
+  num_in_stock: 9
+- product:
+    upc: '9781934356296'
+    title: Manage Your Project Portfolio
+    description: Introducing readers to different ways of ordering all of the projects
+      they are working on, "Manage Your Project Portfolio" helps to define a team's,
+      group's, or department's mission--whether the projects include of software or
+      hardware ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781934356296'
+  price: '26.99'
+  num_in_stock: 33
+- product:
+    upc: '9780201741575'
+    title: Fearless Change
+    description: The co-authors reveal 48 patterns of behavior associated with successful
+      change in knowledge-driven organizations, and show readers exactly how to use
+      them in their own organization.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201741575'
+  price: '20.99'
+  num_in_stock: 95
+- product:
+    upc: '9781430322641'
+    title: Scrum and XP from the Trenches
+    description: This book aims to give you a head start by providing a detailed down-to-earth
+      account of how one Swedish company implemented Scrum and XP with a team of approximately
+      40 people and how they continuously improved their process over a year's ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781430322641'
+  price: '13.99'
+  num_in_stock: 23
+- product:
+    upc: '9780321278654'
+    title: Extreme Programming Explained.
+    description: You may love XP, or you may hate it, but "Extreme Programming Explained"
+      will force you to take a fresh look at how you develop software. 0201616416B04062001
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321278654'
+  price: '6.99'
+  num_in_stock: 62
+- product:
+    upc: '9780977616640'
+    title: Agile Retrospective
+    description: The tools and recipes in this book will help readers uncover and
+      solve hidden and not-so-hidden problems with their technology and methodology.
+      It offers tips to fix the problems faced on a software development project on
+      an ongoing basis.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780977616640'
+  price: '9.99'
+  num_in_stock: 1
+- product:
+    upc: '9781591840565'
+    title: The Art Of The Start
+    description: Explains how to transform ideas into action, offering a step-by-step
+      approach to launching great products, services, and companies and demonstrating
+      how managers can unleash a creative approach to business at established companies.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781591840565'
+  price: '10.99'
+  num_in_stock: 43
+- product:
+    upc: '9780884271789'
+    title: The Goal
+    description: Mr. Rogo, a plant manager, must improve his factory's efficiency
+      or face its closing in just three months.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780884271789'
+  price: '3.99'
+  num_in_stock: 5
+- product:
+    upc: '9780262111898'
+    title: Genetic Programming
+    description: The lawnmower problem. The bumblebee problem. The increasing benefits
+      of ADFs as problems are scaled up. Finding an impulse response function. Artificial
+      ant on the San Mateo trail. Obstacle-avoiding robot. The minesweeper problem.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780262111898'
+  price: '24.99'
+  num_in_stock: 81
+- product:
+    upc: '9780976458708'
+    title: Thinking Forth
+    description: A Language and Philosophy for Solving Problems Leo Brodie. THREE   Preliminary
+      Design/ Decomposition Assuming you have some idea of what your   program should.
+      Justine Time.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780976458708'
+  price: '11.99'
+  num_in_stock: 35
+- product:
+    upc: '9780596809485'
+    title: 97 Things Every Programmer Should Know
+    description: With the 97 short and extremely useful tips for programmers in this
+      book, you'll expand your skills by adopting new approaches to old problems,
+      learning appropriate best practices, and honing your craft through sound advice.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596809485'
+  price: '3.99'
+  num_in_stock: 84
+- product:
+    upc: '9781617290084'
+    title: Specification by Example
+    description: Describes a method of effectively specifying, testing, and delivering
+      software, covering such topics as documentation, process patterns, and automation,
+      along with case studies from a variety of firms.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9781617290084'
+  price: '0.99'
+  num_in_stock: 23
+- product:
+    upc: '9780321213358'
+    title: Refactoring to patterns
+    description: 'This book introduces the theory and practice of pattern-directed
+      refactorings: sequences of low-level refactorings that allow designers to safely
+      move designs to, towards, or away from pattern implementations.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780321213358'
+  price: '28.99'
+  num_in_stock: 6
+- product:
+    upc: '9780201733860'
+    title: Software craftsmanship
+    description: Chapter. 19. Perpetual. Learning. Software developers need to have
+      a good   memory, be very good at learning, and be great at forgetting. Forgetting
+      is the   most important ability because it is the key to perpetual learning.
+      Learning is   important ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780201733860'
+  price: '11.99'
+  num_in_stock: 63
+- product:
+    upc: '9780557043552'
+    title: Reviewing Java
+    description: A simple Java review book and your best guide to learning Java programming.
+      This book covers the most seen topics in introductory programming courses such
+      as conditions, loops, arrays, classes and inheritance.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780557043552'
+  price: '1.99'
+  num_in_stock: 30
+- product:
+    upc: '9780596009205'
+    title: "\u6DF1\u5165\u6D45\u51FA Java"
+    description: number formatting Number formatting InJava, formatting numbers and
+      dates   doesn't have to be coupled with I/O. Think about it. One of the most
+      typical ways   to display numbers to a user is through a GUI. You put Strings
+      into a scrolling text ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780596009205'
+  price: '15.99'
+  num_in_stock: 86
+- product:
+    upc: '9780131774292'
+    title: Expert C Programming
+    description: 'Deep C Secrets Peter van der Linden. #include <setjmp.h> banana
+      ( ) { printf ( "   in banana ( ) n" ) ; longjmp (buf, 1) ; /*NOTREACHED*/ printf
+      ( "you'' 11 never see   this, because I longjmp''d" ) ; main ( ) if (set jmp(buf
+      ) ) printf ("back in mainn"); ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Essential programming
+  partner:
+    name: Book partner
+  partner_sku: '9780131774292'
+  price: '2.99'
+  num_in_stock: 45
+- product:
+    upc: '9781416507789'
+    title: The Cuckoo's Egg
+    description: Updated with a new afterword, a true-life account of computer espionage
+      tells of a year-long single-handed hunt for a computer thief known as "Hunter,"
+      a hacker who stole sensitive security and military information from American
+      computer ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781416507789'
+  price: '9.99'
+  num_in_stock: 14
+- product:
+    upc: '9780316037709'
+    title: Ghost in the Wires
+    description: Ghost in the Wires is a thrilling true story of intrigue, suspense,
+      and unbelievable escape, and a portrait of a visionary whose creativity, skills,
+      and persistence forced the authorities to rethink the way they pursued him,
+      inspiring ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780316037709'
+  price: '10.99'
+  num_in_stock: 56
+- product:
+    upc: '9780471782667'
+    title: The Art of Intrusion
+    description: 'Mitnick''s reputation within the hacker community gave him unique
+      credibility with the perpetrators of these crimes, who freely shared their stories
+      with him-and whose exploits Mitnick now reveals in detail for the first time,
+      including: A ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780471782667'
+  price: '24.99'
+  num_in_stock: 57
+- product:
+    upc: '9781593270070'
+    title: Hacking
+    description: the art of exploitation. More No-Nonsense Books from NO STARCH PRESS   WRITE
+      GREAT CODE Understanding the Machine by randall hyde Today's   programmers are
+      often narrowly trained because the industry moves too fast.   This book ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781593270070'
+  price: '9.99'
+  num_in_stock: 90
+- product:
+    upc: '9780553563702'
+    title: The Hacker Crackdown
+    description: A journalist investigates the past, present, and future of computer
+      crimes, as he attends a hacker convention, documents the extent of the computer
+      crimes, and presents intriguing facts about hackers and their misdoings. Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780553563702'
+  price: '28.99'
+  num_in_stock: 35
+- product:
+    upc: '9780141000510'
+    title: Hackers
+    description: Interviews with the unconventional computer geniuses who were responsible
+      for the computer revolution reveal the inside story and the shared ideals that
+      motivated them. Reprint.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780141000510'
+  price: '16.99'
+  num_in_stock: 45
+- product:
+    upc: '9780596006624'
+    title: Hackers & painters
+    description: The author examines issues such as the rightness of web-based applications,
+      the programming language renaissance, spam filtering, the Open Source Movement,
+      Internet startups and more.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780596006624'
+  price: '9.99'
+  num_in_stock: 0
+- product:
+    upc: '9780307588685'
+    title: Kingpin
+    description: Documents how a troubled young computer hacker seized control of
+      a massive international computer fraud network in 2006, tracing the efforts
+      of Non-FBI and Secret Service agents as well as an undercover operator to locate
+      and arrest him.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780307588685'
+  price: '27.99'
+  num_in_stock: 83
+- product:
+    upc: '9780764542800'
+    title: The Art of Deception
+    description: "But in his own eyes, Mitnick was simply a small-time con artist\
+      \ with an incredible memory [and] a knack for social engineering\u2026 This\
+      \ is Mitnick\u2019s account, complete with advice for how to protect yourself\
+      \ from similar attacks."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780764542800'
+  price: '17.99'
+  num_in_stock: 6
+- product:
+    upc: '9780072260816'
+    title: Hacking Exposed Non-Fifth Edition
+    description: Should be required reading for anyone with a server or a network
+      to secure." Bill Machrone, "PC Magazine," "With every edition this book keeps
+      getting better and better.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780072260816'
+  price: '2.99'
+  num_in_stock: 92
+- product:
+    upc: '9780060926946'
+    title: The Masters of Deception
+    description: Chronicles the cyberspace battle between rival gangs of hackers in
+      Texas and New York, detailing the groups' exploits and discussing the legal
+      and ethical implications of new computer technology
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780060926946'
+  price: '27.99'
+  num_in_stock: 18
+- product:
+    upc: '9780596001087'
+    title: The Cathedral & the Bazaar
+    description: Argues that the development of Linux by thousands of programmers,
+      in a coordinated effort without centralized management signals unprecedented
+      power shifts in the computer industry.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780596001087'
+  price: '10.99'
+  num_in_stock: 12
+- product:
+    upc: '9780765319852'
+    title: Little Brother
+    description: "Zit took the fore. \u201CWe seem to have gotten off to a bad start.\
+      \ We identified your son   as someone with a nonstandard public transit usage\
+      \ pattern,as part of a new   proactive enforcement program. When we spot people\
+      \ whose travels are unusual  , ..."
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780765319852'
+  price: '2.99'
+  num_in_stock: 92
+- product:
+    upc: '9780470639535'
+    title: Social Engineering
+    description: '... Published by Wiley Publishing, Inc.,Indianapolis, Indiana Published   simultaneously
+      inCanada ISBN: 9780470639535 ISBN: 9781118028018 (ebk)   ISBN: 9781118029718(ebk)
+      ISBN: 9781118029749 (ebk) Manufactured in the   United States ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780470639535'
+  price: '9.99'
+  num_in_stock: 55
+- product:
+    upc: '9780316213547'
+    title: We Are Anonymous
+    description: WE ARE ANONYMOUS delves deep into the internet's underbelly to tell
+      the incredible full story of the global cyber insurgency movement, and its implications
+      for the future of computer security.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780316213547'
+  price: '27.99'
+  num_in_stock: 47
+- product:
+    upc: '9781593272883'
+    title: Metasploit
+    description: '"The Metasploit Non-Framework makes discovering, exploiting, and
+      sharing vulnerabilities quick and relatively painless.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781593272883'
+  price: '18.99'
+  num_in_stock: 22
+- product:
+    upc: '9780307269751'
+    title: The Girl with the Dragon Tattoo
+    description: Non-Forty years after the disappearance of Harriet Vanger from the
+      secluded island owned and inhabited by the powerful Vanger family, her octogenarian
+      uncle hires journalist Mikael Blomqvist and Lisbeth Salander, an unconventional
+      young hacker, ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780307269751'
+  price: '24.99'
+  num_in_stock: 7
+- product:
+    upc: '9781591843573'
+    title: Hacking Work
+    description: 'In a fresh approach to work, the authors explain how professionals
+      can: use their own tools and technologies instead of what the company mandates;
+      cut through red tape; circumvent almost any company rule to work smarter, not
+      harder; and ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781591843573'
+  price: '6.99'
+  num_in_stock: 3
+- product:
+    upc: '9781593270469'
+    title: Silence On The Wire
+    description: A Non-Field Guide To Passive Reconnaissance And Indirect Attacks
+      Michal Zalewski.   have no way of telling what is stored in a cookie. A server
+      can choose to assign a   unique identifier to a client using the Set-Cookie
+      header and then read it back ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781593270469'
+  price: '4.99'
+  num_in_stock: 54
+- product:
+    upc: '9781931836364'
+    title: Google Hacking
+    description: '*Author Johnny Long, the authority on Google hacking, will be speaking
+      about "Google Hacking" at the Black Hat 2004 Briefing.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781931836364'
+  price: '0.99'
+  num_in_stock: 19
+- product:
+    upc: '9780201914658'
+    title: Hacker's Delight
+    description: '"This is the first book that promises to tell the deep, dark secrets
+      of computer arithmetic, and it delivers in spades.'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780201914658'
+  price: '13.99'
+  num_in_stock: 83
+- product:
+    upc: '9780553380958'
+    title: Snow Crash
+    description: Neal Stephenson is such a writer and Snow Crash is such a novel,
+      weaving virtual reality, Sumerian myth, and just about everything in between
+      with a cool, hip cybersensibility to bring us the gigathriller of the information
+      age.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780553380958'
+  price: '7.99'
+  num_in_stock: 27
+- product:
+    upc: '9780307269997'
+    title: The Girl Who Kicked the Hornet's Nest
+    description: While recovering in the hospital, Lisbeth Salander enlists the aid
+      of journalist Mikael Blomkvist to prove her innocent of three murders and identify
+      the corrupt politicians who have allowed her to suffer, and, on her own, Lisbeth
+      plots ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780307269997'
+  price: '15.99'
+  num_in_stock: 55
+- product:
+    upc: '9780471128458'
+    title: Applied cryptography
+    description: . . . The book the National Security Agency wanted never to be published.
+      . . ." -Wired Magazine ". . .monumental . . . fascinating . . . comprehensive
+      . . . the definitive work on cryptography for computer programmers . . .
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780471128458'
+  price: '3.99'
+  num_in_stock: 73
+- product:
+    upc: '9780684818627'
+    title: Cyberpunk
+    description: Using the exploits of three international hackers, Cyberpunk provides
+      a fascinating tour of a bizarre subculture populated by outlaws who penetrate
+      even the most sensitive computer networks and wreak havoc on the information
+      they find -- ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780684818627'
+  price: '22.99'
+  num_in_stock: 36
+- product:
+    upc: '9780764574818'
+    title: Reversing
+    description: That's exactly what this book shows you--how to deconstruct software
+      in a way that reveals design and implementation details, sometimes even source
+      code. Why? Because reversing reveals weak spots, so you can target your security
+      efforts.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780764574818'
+  price: '3.99'
+  num_in_stock: 56
+- product:
+    upc: '9780307269980'
+    title: The Girl Who Played with Non-Fire
+    description: Lisbeth Salander is a wanted woman. Two Millennium journalists about
+      to expose the truth about sex trafficking in Sweden are murdered, and Salander's
+      prints are on the weapon.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780307269980'
+  price: '12.99'
+  num_in_stock: 81
+- product:
+    upc: '9780072257090'
+    title: Gray Hat Hacking
+    description: Malicious hackers are dedicated to bringing about mayhem and destruction--this
+      book will teach you how to identify and stop them.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780072257090'
+  price: '12.99'
+  num_in_stock: 94
+- product:
+    upc: '9780131481046'
+    title: Studyguide for Counter Hack Reloaded
+    description: 'Cram101 Textbook Outlines gives all of the outlines, highlights,
+      notes for your textbook with optional online practice tests. Only Cram101 Outlines
+      are Textbook Specific. Cram101 is NOT the Textbook. Accompanys: 9780131481046
+      .'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780131481046'
+  price: '15.99'
+  num_in_stock: 7
+- product:
+    upc: '9780970978813'
+    title: Visual Guide to Lock Picking
+    description: By reading this book, practicing, and applying the methods introduced,
+      you can successfully master picking most modern locks. This book makes it easy
+      and gives you the edge to quickly learn and start picking locks today.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780970978813'
+  price: '24.99'
+  num_in_stock: 94
+- product:
+    upc: '9781430219484'
+    title: Coders at Work
+    description: Reflections on the Craft of Programming Peter Seibel. and get working
+      first that   will help you to do the next step and build stuff up from there.
+      In these cases, it   was a matter of getting outside the box. That's a way of
+      asserting that you've ...
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9781430219484'
+  price: '19.99'
+  num_in_stock: 86
+- product:
+    upc: '9780072262582'
+    title: Hacking Exposed Wireless
+    description: This is an invaluable resource for any IT professional who works
+      with wireless technology.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780072262582'
+  price: '23.99'
+  num_in_stock: 97
+- product:
+    upc: '9780764544682'
+    title: The shellcoder's handbook
+    description: '" The Shellcoder''s Handbook shows you how to: Non-Find out where
+      security holes come from and how to close them so they never occur againPinpoint
+      vulnerabilities in popular operating systems (including Windows(R), Linux(R),
+      and SolarisTM) and ...'
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Non-Fiction > Hacking
+  partner:
+    name: Book partner
+  partner_sku: '9780764544682'
+  price: '9.99'
+  num_in_stock: 42
+product_classes: []
+categories: []
+partners: []

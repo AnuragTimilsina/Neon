@@ -1,0 +1,29 @@
+# The list of products in stock. Use this to add products to the catalogue
+# If product_class, partner, category or stock_record does not exist, then
+# it will be created automatically.
+stock:
+- product:
+    upc: '9780553380958'
+    title: Snow Crash
+    description: Neal Stephenson is such a writer and Snow Crash is such a novel,
+      weaving virtual reality, Sumerian myth, and just about everything in between
+      with a cool, hip cybersensibility to bring us the gigathriller of the information
+      age.
+    product_class:
+      name: Book
+    categories:
+    - name: Books > Fiction > Computers in Literature
+  partner:
+    name: Book partner
+  partner_sku: '9780553380958'
+  price: '17.99'
+  num_in_stock: 51
+
+# The list of product classes. Use this to register additional product classes
+product_classes: []
+
+# The list of categories. Use this to register additional categories
+categories: []
+
+# The list of partners. Use this to register additional partners
+partners: []
