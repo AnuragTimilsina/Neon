@@ -1,4 +1,10 @@
 #! /usr/bin/env python3
+
+"""Downloads and converts fixtures to yaml present in django-oscar
+
+Contains functions to download and convert fixtures present in django-oscar.
+The csv fixtures are converted to yaml. Additionally contains a CLI tool do the same.
+"""
 import sys
 import os
 import shutil
@@ -9,12 +15,33 @@ import urllib.request
 import csv_to_yaml
 
 
-def download_file(url, path):
+def download_file(url: str, path: str) -> None:
+    """Download file from url
+
+    Downloads the file from url to path. No exception handling is done.
+
+    Args:
+        url (str): The url of the source file.
+        path (str): The path of the destination file.
+
+    Returns:
+        None
+    """
     with urllib.request.urlopen(url) as response, open(path, 'wb') as out_file:
         shutil.copyfileobj(response, out_file)
 
 
-def generate_dict(fixture_urls):
+def generate_dict(fixture_urls: list[str]) -> dict:
+    """Generate a stock dict from the list of fixture urls.
+
+    Generates a dict containing all stock_records from the fixtures present at fixture_urls.
+
+    Args:
+        fixture_urls (list[str]): The list of urls of django-oscar fixtures.
+        
+    Returns:
+        A python dictionary containing all stock records from the fixtures.
+    """
     document = {}
     document["stock"] = []
     for url in fixture_urls:

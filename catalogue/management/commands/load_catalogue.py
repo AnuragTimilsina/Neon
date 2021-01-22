@@ -1,3 +1,11 @@
+"""Management command to load initial catalog data from fixture
+
+Contains functions to load the initial catalogue from django-oscar fixtures.
+Also, contains functions to load all image data from the django-oscar image archive.
+Also registers a django management command named 'load_catalogue' that can be
+used as `python manage.py load_catalogue`
+"""
+
 from PIL import Image
 import logging
 import urllib.request
@@ -17,7 +25,14 @@ from oscar.apps.catalogue.exceptions import (
     IdenticalImageError, ImageImportError)
 
 
-def clear_catalogue():
+def clear_catalogue() -> None:
+    """Clears all catalogue related information present in the database.
+
+    NOTE: This does not remove images from the media/ directory.
+    
+    Returns:
+        None
+    """
     Category = get_model('catalogue', 'Category')
     Partner = get_model('partner', 'Partner')
     Product = get_model('catalogue', 'Product')
@@ -35,14 +50,30 @@ def clear_catalogue():
     ProductImage.objects.all().delete()
 
 
-def load_product_class(item):
+def load_product_class(item: dict):
+    """Loads the product class object from the dict.
+    
+    Args:
+        item: The dict representing the model
+    
+    Returns:
+        The object that was added.
+    """
     ProductClass = get_model('catalogue', 'ProductClass')
     product_class, __ = ProductClass.objects.get_or_create(
         name=item["name"])
     return product_class
 
 
-def load_partner(item):
+def load_partner(item: dict):
+    """Loads the partner object from the dict.
+    
+    Args:
+        item: The dict representing the model
+    
+    Returns:
+        The object that was added.
+    """
     Partner = get_model('partner', 'Partner')
 
     partner, _ = Partner.objects.get_or_create(
@@ -50,14 +81,30 @@ def load_partner(item):
     return partner
 
 
-def load_category(item):
+def load_category(item: dict):
+    """Loads the category object from the dict.
+    
+    Args:
+        item: The dict representing the model
+    
+    Returns:
+        The object that was added.
+    """
     create_category_from_breadcrumbs = get_class(
         'catalogue.categories', 'create_from_breadcrumbs')
     category = create_category_from_breadcrumbs(item["name"])
     return category
 
 
-def load_product(item):
+def load_product(item: dict):
+    """Loads the product object from the dict.
+    
+    Args:
+        item: The dict representing the model
+    
+    Returns:
+        The object that was added.
+    """
     Product = get_model('catalogue', 'Product')
     ProductCategory = get_model('catalogue', 'ProductCategory')
 
@@ -80,7 +127,15 @@ def load_product(item):
     return product
 
 
-def load_stock_record(item):
+def load_stock_record(item: dict):
+    """Loads the stock record object from the dict.
+    
+    Args:
+        item: The dict representing the model
+    
+    Returns:
+        The object that was added.
+    """
     StockRecord = get_model('partner', 'StockRecord')
 
     try:
@@ -95,9 +150,18 @@ def load_stock_record(item):
     stock.num_in_stock = item["num_in_stock"]
 
     stock.save()
+    return stock
 
 
-def load_fixture(fixture):
+def load_fixture(fixture: dict) -> None:
+    """Loads the fixture into the database.
+    
+    Args:
+        item: The dict representing the fixture.
+    
+    Returns:
+        None
+    """
     for product_class in fixture["product_classes"]:
         load_product_class(product_class)
 
@@ -112,15 +176,35 @@ def load_fixture(fixture):
 
 
 class ImageImporter(object):
+    """Class responsible for loading image data into the database.
+
+    A sample implementation similar to one present in django-oscar.
+    Imports initial fixture images into the database.
+
+    Attributes:
+        logger: The logger that is used to log messages
+        _field (str): The field to lookup for image filename.
+    """
 
     allowed_extensions = ['.jpeg', '.jpg', '.gif', '.png']
 
-    def __init__(self, logger, field):
+    def __init__(self, logger, field: str):
+        """Init ImageImporter"""
         self.logger = logger
         self._field = field
 
     @atomic
-    def handle(self, dirname):
+    def handle(self, dirname: str) -> None:
+        """Populates database with the image fixture data.
+        
+        Error checking is performed. All errors are logged.
+        
+        Args:
+            dirname (str): The directory where the image files are located.
+            
+        Returns:
+            None
+        """
         Product = get_model('catalogue', 'product')
         filenames = self._get_image_files(dirname)
 
@@ -143,7 +227,17 @@ class ImageImporter(object):
             except FieldError as e:
                 raise ImageImportError(e)
 
-    def _get_image_files(self, image_dir):
+    def _get_image_files(self, image_dir: str) -> list[str]:
+        """Retrieves all filenames of the images present in the directory
+        
+        Only files having extensions in allowed_extensions is considered.
+        
+        Args:
+            image_dir (str): The directory where the image files are present.
+        
+        Returns:
+            The list of image filenames in the directory.
+        """
         filenames = []
         for filename in os.listdir(image_dir):
             _, ext = os.path.splitext(filename)
@@ -152,7 +246,20 @@ class ImageImporter(object):
                 filenames.append(filename)
         return filenames
 
-    def _process_image(self, dirname, filename):
+    def _process_image(self, dirname: str, filename: str) -> None:
+        """Populate the image in the database.
+
+        Appends an additional image in the database. If images for the product exist,
+        and the image matches any one of them, IdenticalImageError is raised.
+        All stale images (not present in the filesystem) are removed.
+    
+        Args:
+            dirname (str): The directory where the images are present.
+            filename (str): Image filename.
+        
+        Returns:
+            None
+        """
         ProductImage = get_model('catalogue', 'productimage')
 
         file_path = os.path.join(dirname, filename)
@@ -177,16 +284,43 @@ class ImageImporter(object):
         im.original.save(filename, new_file, save=False)
         im.save()
 
-    def _fetch_item(self, filename):
+    def _fetch_item(self, filename: str):
+        """Fetches the Product item that the image matches to.
+        
+        Args:
+            filename (str): The filename of the image.
+
+        Returns:
+            The Product item that matches the image.
+        
+        Raises:
+            Product.DoesNotExist: No product matches the image
+            Product.MultipleObjectsReturned: Multiple product matches the image
+        """
         Product = get_model('catalogue', 'product')
         kwargs = {self._field: self._get_lookup_value_from_filename(filename)}
         return Product._default_manager.get(**kwargs)
 
-    def _get_lookup_value_from_filename(self, filename):
+    def _get_lookup_value_from_filename(self, filename: str) -> str:
         return os.path.splitext(filename)[0]
 
 
-def import_catalogue(logger, fixture_file_path, field, clear):
+def import_catalogue(logger, fixture_file_path: str, field: str, clear: bool) -> None:
+    """Imports the catalogue from fixtures.
+
+    Imports all database information from the fixture path.
+    Additionally, images archive from django-oscar is used to populate images
+    for matching items. This function can clear all product information.
+    
+    Args:
+        logger: The logger used to log messages.
+        fixture_file_path: the path to the fixture file.
+        field (str): The field used to lookup image from filename.
+        clear (bool): Whether to clear the database before import.
+        
+    Returns:
+        None
+    """
     # Clear catalogue if instructed
     if clear:
         clear_catalogue()
@@ -221,18 +355,21 @@ def import_catalogue(logger, fixture_file_path, field, clear):
     logger.info("Catalogue import complete")
 
 
-handler = logging.StreamHandler(sys.stdout)
-handler.setLevel(logging.DEBUG)
-
-logger = logging.getLogger('shop.load_catalogue')
-logger.setLevel(logging.INFO)
-logger.addHandler(handler)
 
 
 class Command(BaseCommand):
+    """Django management command for load_catalogue"""
     help = 'For importing catalogue from fixtures and image archive.'
 
-    def add_arguments(self, parser):
+    def add_arguments(self, parser) -> None:
+        """Add arguments to load_catalogue
+
+        Args:
+            parser: django command line parser
+        
+        Returns:
+            None
+        """
         parser.add_argument('path', help='/path/to/fixture.yaml')
 
         parser.add_argument(
@@ -247,6 +384,17 @@ class Command(BaseCommand):
             help="Clear all existing entries in the catalogue before import"
         )
 
-    def handle(self, *args, **options):
+    def handle(self, *args, **options) -> None:
+        """Django management handler for load_catalogue.
+
+        Inherited member. See django docs for more details.
+        """
+        handler = logging.StreamHandler(sys.stdout)
+        handler.setLevel(logging.DEBUG)
+
+        logger = logging.getLogger('shop.load_catalogue')
+        logger.setLevel(logging.INFO)
+        logger.addHandler(handler)
+
         import_catalogue(logger, options["path"], options.get(
             "image_field"), options["clear"])

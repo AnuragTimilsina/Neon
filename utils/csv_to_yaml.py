@@ -1,17 +1,36 @@
 #! /usr/bin/env python3
+
+"""Converts django-oscar csv fixture files to yaml
+
+Contains functions to convert django-oscar csv fixture files to yaml.
+Additionally, contains a small CLI tool to do this from the command line.
+"""
+
 import csv
 import argparse
 import yaml
 import argparse
 import sys
+from typing import Optional
 
 
-def parse_product(row):
+def parse_product(row: str) -> dict:
+    """Parse the row from the fixture csv and convert to a python dictionary.
+
+    No error checking is performed and all values are expected to be present
+    in the row.
+
+    Args:
+        row: The csv row string.
+    
+    Returns:
+        A python dict that represents the product.
+    """
     csv_headers = ("product_class", "category", "upc", "title", "description",
                    "partner_name", "partner_sku", "price", "num_in_stock")
     _ = dict(zip(csv_headers, row))
 
-    tests = {
+    return {
         "product": {
             "upc": _["upc"],
             "title": _["title"],
@@ -29,12 +48,20 @@ def parse_product(row):
         "partner_sku": _["partner_sku"],
         "price": _["price"],
         "num_in_stock": int(_["num_in_stock"]),
-
     }
-    return tests
 
 
-def parse_csv(path):
+def parse_csv(path: str) -> Optional[dict]:
+    """Parse the fixture csv file and convert to a dictionary
+    
+    Writes to stderr if file is not present.
+
+    Args:
+        path (str): The path to the csv file.
+    
+    Returns:
+        A dict representing the csv if file exists, None otherwise.
+    """
     document = {}
     document["stock"] = []
     try:
