@@ -1,6 +1,8 @@
+from django.conf import settings
 from django.apps import apps
 from django.urls import include, path
 from django.contrib import admin
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('i18n/', include('django.conf.urls.i18n')),
@@ -12,3 +14,5 @@ urlpatterns = [
     path("api/", include("oscarapi.urls")),
     path('', include(apps.get_app_config('oscar').urls[0])),
 ]
+
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
