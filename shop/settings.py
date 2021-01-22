@@ -26,7 +26,6 @@ SECRET_KEY = 'j)#9(l88xqlzyf!ok)t!#skw%#p3ac6=s_y3b!6o3!4iv*wm=!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mysterious-caverns-30279.herokuapp.com']
 
 
 # Application definition
