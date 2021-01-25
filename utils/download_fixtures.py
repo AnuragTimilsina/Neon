@@ -5,14 +5,15 @@
 Contains functions to download and convert fixtures present in django-oscar.
 The csv fixtures are converted to yaml. Additionally contains a CLI tool do the same.
 """
-import sys
+import argparse
 import os
 import shutil
-import yaml
+import sys
 import tempfile
-import argparse
 import urllib.request
+
 import csv_to_yaml
+import yaml
 
 
 def download_file(url: str, path: str) -> None:
@@ -38,7 +39,7 @@ def generate_dict(fixture_urls: list[str]) -> dict:
 
     Args:
         fixture_urls (list[str]): The list of urls of django-oscar fixtures.
-        
+
     Returns:
         A python dictionary containing all stock records from the fixtures.
     """

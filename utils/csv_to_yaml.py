@@ -6,12 +6,12 @@ Contains functions to convert django-oscar csv fixture files to yaml.
 Additionally, contains a small CLI tool to do this from the command line.
 """
 
+import argparse
 import csv
-import argparse
-import yaml
-import argparse
 import sys
 from typing import Optional
+
+import yaml
 
 
 def parse_product(row: str) -> dict:
@@ -22,7 +22,7 @@ def parse_product(row: str) -> dict:
 
     Args:
         row: The csv row string.
-    
+
     Returns:
         A python dict that represents the product.
     """
@@ -53,12 +53,12 @@ def parse_product(row: str) -> dict:
 
 def parse_csv(path: str) -> Optional[dict]:
     """Parse the fixture csv file and convert to a dictionary
-    
+
     Writes to stderr if file is not present.
 
     Args:
         path (str): The path to the csv file.
-    
+
     Returns:
         A dict representing the csv if file exists, None otherwise.
     """

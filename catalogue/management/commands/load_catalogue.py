@@ -6,30 +6,29 @@ Also registers a django management command named 'load_catalogue' that can be
 used as `python manage.py load_catalogue`
 """
 
-from PIL import Image
-import logging
-import urllib.request
-import shutil
-import yaml
-import os
-import sys
 import decimal
+import logging
+import os
+import shutil
+import sys
+import urllib.request
 
+import yaml
+from django.core.exceptions import FieldError
+from django.core.files import File
 from django.core.management.base import BaseCommand
 from django.db.transaction import atomic
-from django.core.files import File
-from django.core.exceptions import FieldError
-
+from oscar.apps.catalogue.exceptions import (IdenticalImageError,
+                                             ImageImportError)
 from oscar.core.loading import get_class, get_model
-from oscar.apps.catalogue.exceptions import (
-    IdenticalImageError, ImageImportError)
+from PIL import Image
 
 
 def clear_catalogue() -> None:
     """Clears all catalogue related information present in the database.
 
     NOTE: This does not remove images from the media/ directory.
-    
+
     Returns:
         None
     """
@@ -52,10 +51,10 @@ def clear_catalogue() -> None:
 
 def load_product_class(item: dict):
     """Loads the product class object from the dict.
-    
+
     Args:
         item: The dict representing the model
-    
+
     Returns:
         The object that was added.
     """
@@ -67,10 +66,10 @@ def load_product_class(item: dict):
 
 def load_partner(item: dict):
     """Loads the partner object from the dict.
-    
+
     Args:
         item: The dict representing the model
-    
+
     Returns:
         The object that was added.
     """
@@ -83,10 +82,10 @@ def load_partner(item: dict):
 
 def load_category(item: dict):
     """Loads the category object from the dict.
-    
+
     Args:
         item: The dict representing the model
-    
+
     Returns:
         The object that was added.
     """
@@ -98,10 +97,10 @@ def load_category(item: dict):
 
 def load_product(item: dict):
     """Loads the product object from the dict.
-    
+
     Args:
         item: The dict representing the model
-    
+
     Returns:
         The object that was added.
     """
@@ -129,10 +128,10 @@ def load_product(item: dict):
 
 def load_stock_record(item: dict):
     """Loads the stock record object from the dict.
-    
+
     Args:
         item: The dict representing the model
-    
+
     Returns:
         The object that was added.
     """
@@ -155,10 +154,10 @@ def load_stock_record(item: dict):
 
 def load_fixture(fixture: dict) -> None:
     """Loads the fixture into the database.
-    
+
     Args:
         item: The dict representing the fixture.
-    
+
     Returns:
         None
     """
@@ -196,12 +195,12 @@ class ImageImporter(object):
     @atomic
     def handle(self, dirname: str) -> None:
         """Populates database with the image fixture data.
-        
+
         Error checking is performed. All errors are logged.
-        
+
         Args:
             dirname (str): The directory where the image files are located.
-            
+
         Returns:
             None
         """
@@ -229,12 +228,12 @@ class ImageImporter(object):
 
     def _get_image_files(self, image_dir: str) -> list[str]:
         """Retrieves all filenames of the images present in the directory
-        
+
         Only files having extensions in allowed_extensions is considered.
-        
+
         Args:
             image_dir (str): The directory where the image files are present.
-        
+
         Returns:
             The list of image filenames in the directory.
         """
@@ -252,11 +251,11 @@ class ImageImporter(object):
         Appends an additional image in the database. If images for the product exist,
         and the image matches any one of them, IdenticalImageError is raised.
         All stale images (not present in the filesystem) are removed.
-    
+
         Args:
             dirname (str): The directory where the images are present.
             filename (str): Image filename.
-        
+
         Returns:
             None
         """
@@ -286,13 +285,13 @@ class ImageImporter(object):
 
     def _fetch_item(self, filename: str):
         """Fetches the Product item that the image matches to.
-        
+
         Args:
             filename (str): The filename of the image.
 
         Returns:
             The Product item that matches the image.
-        
+
         Raises:
             Product.DoesNotExist: No product matches the image
             Product.MultipleObjectsReturned: Multiple product matches the image
@@ -311,13 +310,13 @@ def import_catalogue(logger, fixture_file_path: str, field: str, clear: bool) ->
     Imports all database information from the fixture path.
     Additionally, images archive from django-oscar is used to populate images
     for matching items. This function can clear all product information.
-    
+
     Args:
         logger: The logger used to log messages.
         fixture_file_path: the path to the fixture file.
         field (str): The field used to lookup image from filename.
         clear (bool): Whether to clear the database before import.
-        
+
     Returns:
         None
     """
@@ -355,8 +354,6 @@ def import_catalogue(logger, fixture_file_path: str, field: str, clear: bool) ->
     logger.info("Catalogue import complete")
 
 
-
-
 class Command(BaseCommand):
     """Django management command for load_catalogue"""
     help = 'For importing catalogue from fixtures and image archive.'
@@ -366,7 +363,7 @@ class Command(BaseCommand):
 
         Args:
             parser: django command line parser
-        
+
         Returns:
             None
         """
