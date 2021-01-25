@@ -7,17 +7,17 @@ check_for_venv:
 
 # Builds the fixture.yaml file
 fixtures: depends
-	python utils/download_fixtures.py fixtures/fixtures.yaml
+	python3 utils/download_fixtures.py fixtures/fixtures.yaml
 
 # Builds the database
 database: depends
-	python manage.py migrate
-	python manage.py oscar_populate_countries --initial-only
-	python manage.py load_catalogue fixtures/fixtures.yaml --clear
+	python3 manage.py migrate
+	python3 manage.py oscar_populate_countries --initial-only
+	python3 manage.py load_catalogue fixtures/fixtures.yaml --clear
 
 # Installs all dependencies
 depends: check_for_venv
-	pip install -r requirements.txt
+	python3 -m pip -q install -r requirements.txt
 
 # Cleans database, images, static_files and compiled python code.
 clean:
