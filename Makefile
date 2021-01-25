@@ -21,7 +21,7 @@ depends: check_for_venv
 
 # Cleans database, images, static_files and compiled python code.
 clean:
-	rm -f db.sqlite
+	rm -f db.sqlite3
 	rm -rf images/*
 	rm -rf media/*
 	rm -rf static/*
